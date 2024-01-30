@@ -33,7 +33,7 @@ jobs:
           mechanism: blocks
           value: |
             {
-              "blocks": [
+              [
                   {
                       "type": "section",
                       "text": {
